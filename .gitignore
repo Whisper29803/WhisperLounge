@@ -1,0 +1,14 @@
+# Build output
+out/
+bin/
+*.class
+
+# Large binaries and JDK
+oracleJdk-27/
+*.exe
+*.dll
+
+# Local data and logs
+data/
+*.log
+.vscode/
